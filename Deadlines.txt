@@ -3,3 +3,6 @@ Welcome to new tasks
 Task one
 Task two
 Task three
+
+Coding task
+Testing task
